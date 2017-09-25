@@ -1,0 +1,28 @@
+09/21/17 11:04
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 2
+
+Prob5 (2 points):
+The last graphs need 3 fixed points.
+Score += 1
+
+Total score: 9/10 = 90.0%
+
+Great job!
+
+
+Comments:
+	I will give you till Tuesday to make changes since I graded this late.
+
+-------------------------------------------------------------------------------
+
