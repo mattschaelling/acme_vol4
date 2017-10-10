@@ -1,0 +1,4 @@
+__main__.py
+__init__.py
+*.pyc
+.ipynb_checkpoints/
