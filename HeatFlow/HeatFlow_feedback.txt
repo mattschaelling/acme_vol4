@@ -1,0 +1,18 @@
+11/06/17 12:41
+
+prob1 (3 points):
+Keep coding
+Score += 1
+
+prob2 (4 points):
+no code
+Score += 0
+
+prob3 (3 points):
+no code
+Score += 0
+
+Total score: 1/10 = 10.0%
+
+-------------------------------------------------------------------------------
+
