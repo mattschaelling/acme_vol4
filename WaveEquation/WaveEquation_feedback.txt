@@ -1,0 +1,27 @@
+11/17/17 14:43
+
+Prob1 (2 points):
+Runs slow. After a minute nothing has graphed.
+Score += 1
+
+Prob2 (2 points):
+Same as 1
+Score += 1
+
+Prob3 (2 points):
+Score += 0
+
+Prob4 (2 points):
+Score += 0
+
+Prob5 (2 points):
+Score += 0
+
+Total score: 2/10 = 20.0%
+
+
+Comments:
+	no code 3-5
+
+-------------------------------------------------------------------------------
+
