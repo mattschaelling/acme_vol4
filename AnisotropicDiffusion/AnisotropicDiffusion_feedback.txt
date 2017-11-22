@@ -4,3 +4,19 @@ File 'anisotropic_diffusion.ipynb' not found!
 
 -------------------------------------------------------------------------------
 
+11/15/17 07:32
+
+Prob1 (3 points):
+Score += 3
+
+Prob2 (3 points):
+Use the absolute value in the function
+Score += 2
+
+Prob3 (4 points):
+Score += 0
+
+Total score: 5/10 = 50.0%
+
+-------------------------------------------------------------------------------
+
