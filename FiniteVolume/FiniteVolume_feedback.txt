@@ -30,3 +30,21 @@ Comments:
 
 -------------------------------------------------------------------------------
 
+01/16/18 12:09
+
+Problem 1 (5 points):
+If you could plot the exact solution as well, than I can see if your method works at high order.
+Score += 4
+
+Problem 2 (5 points):
+same as above
+Score += 4
+
+Total score: 8/10 = 80.0%
+
+
+Comments:
+	Good work so far!
+
+-------------------------------------------------------------------------------
+
