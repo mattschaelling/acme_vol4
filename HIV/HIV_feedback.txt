@@ -17,3 +17,21 @@ Comments:
 
 -------------------------------------------------------------------------------
 
+04/20/18 12:30
+
+Problem 1 (3 points):
+Score += 3
+
+Problem 2 (3 points):
+Very small error in y_dot[1]: you used "B2" in a spot you should have used "B1"
+Score += 2
+
+Problem 3 (4 points):
+Score += 4
+
+Total score: 9/10 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
